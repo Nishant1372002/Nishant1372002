@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Nishant1372002
+- 👋 Hi, I’m @Nishant
 - 👀 I’m interested in ...Coding
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently studing 
+- 💞️ 
 -
 
 <!---
